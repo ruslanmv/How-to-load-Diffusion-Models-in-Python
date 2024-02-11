@@ -1,0 +1,31 @@
+Image,Prompt,Extended_Prompt,Steps,Seed,Path
+image_1.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, portrait, studio portrait, fantasy, detailed illustration, hd, 4k, digital art, overdetailed art, concept art, by",2,721387253838747075,/home/ec2-user/SageMaker/sd/images/image_1.png
+image_2.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, background is a red sunset on fire, background of outer space by Beksinski, wojtek fus, Hiroshi Yoshida and Magic the Gathering.",2,35616646629121758,/home/ec2-user/SageMaker/sd/images/image_2.png
+image_3.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, background, ultra-detailed pen and ink illustration by Ilya Kuvshinov, craig mullins style, krenz cushart, norman rockwell, alphonse mucha",2,792407181372801528,/home/ec2-user/SageMaker/sd/images/image_3.png
+image_4.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, Eliette,  fantasy, intricate, elegant, highly detailed, sunset light, sharp focus, illustration, highly detailed painting",2,840049216408750317,/home/ec2-user/SageMaker/sd/images/image_4.png
+image_5.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, high detail, medium close up shot, serious, serious, black background, gold, illustration by enki bilal, by Frank Frazetta",2,202684042559984466,/home/ec2-user/SageMaker/sd/images/image_5.png
+image_6.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, Anime,Sona Newton-H 1000SA -9640586-99143398/7",2,542145578651788601,/home/ec2-user/SageMaker/sd/images/image_6.png
+image_7.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, simple background, closeup character art, by TōUEKA, by Lózefám, by Ne",2,347226604371872731,/home/ec2-user/SageMaker/sd/images/image_7.png
+image_8.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, simple background, artstation, medium shot. by Vuete K.A.Aute, WLOP, Dan Mumford and Andrei",2,740546705907951015,/home/ec2-user/SageMaker/sd/images/image_8.png
+image_9.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, elliptical.  Pre-Raphaelite oil painting by John Everett Millais. Portrait by John Boyle. Trending on artstation.",2,164158675066943160,/home/ec2-user/SageMaker/sd/images/image_9.png
+image_10.png,"sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+","sexy woman,  flowing blonde hair, white dress with a red floral pattern, has red lipstick , serious expression.
+, sci-fi fantasy painting by Peter Andrew Jones, Jean Delville, Yoshitaka Amano, horizontally symmetrical shoulders, detailed, beautiful portrait,",2,891337490757794282,/home/ec2-user/SageMaker/sd/images/image_10.png
